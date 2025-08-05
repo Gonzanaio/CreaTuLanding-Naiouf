@@ -2,7 +2,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import "./NavBar.css";
+import "../styles/NavBar.css";
 import logo from "../assets/Logo.png";
 import CardWidget from "./CartWidget";
 import logoNombre from "../assets/LogoNombre.png";

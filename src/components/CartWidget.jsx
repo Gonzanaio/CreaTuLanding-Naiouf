@@ -1,5 +1,5 @@
 import { ImCart } from "react-icons/im";
-import "./CartWidget.css";
+import "../styles/CartWidget.css";
 
 function CardWidget() {
   return (

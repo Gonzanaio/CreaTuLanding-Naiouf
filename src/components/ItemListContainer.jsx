@@ -1,4 +1,4 @@
-import "./ItemListContainer.css";
+import "../styles/ItemListContainer.css";
 function ItemListContainer({ msj }) {
   return (
     <div className="container mt-5 containerBox">
